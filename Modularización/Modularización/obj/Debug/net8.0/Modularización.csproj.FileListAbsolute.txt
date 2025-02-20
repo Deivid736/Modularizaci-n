@@ -1,0 +1,14 @@
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfoInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfo.cs
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\bin\Debug\net8.0\Modularización.exe
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\bin\Debug\net8.0\Modularización.deps.json
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\bin\Debug\net8.0\Modularización.runtimeconfig.json
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\bin\Debug\net8.0\Modularización.dll
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\bin\Debug\net8.0\Modularización.pdb
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.dll
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\refint\Modularización.dll
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.pdb
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\Modularización.genruntimeconfig.cache
+C:\Users\joseg\OneDrive\Escritorio\Modularización\Modularización\Modularización\obj\Debug\net8.0\ref\Modularización.dll
